@@ -1,5 +1,7 @@
-# deldo
-Deldo is a sex toy control and teledildonics mode for Emacs
+# vim deldo
+
+vim-deldo is a fork of [Deldo](https://github.com/qdot/deldo)
+It is a sex toy control and teledildonics mode for Vim
 
 Teledildonics is achieved using Rudel.
 
